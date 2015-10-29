@@ -26,7 +26,7 @@ Window {
 }
 ```
 
-### Example subscriber in Qml
+### Example publisher in Qml
 ```
 import QtQuick 2.3
 import QtQuick.Window 2.2
