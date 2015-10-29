@@ -7,7 +7,6 @@ PubNubPublisherPrivate::PubNubPublisherPrivate(PubNubPublisher *parent)
 }
 
 void PubNubPublisherPrivate::outcome(pubnub_res result) {
-    qDebug() << Q_FUNC_INFO;
 }
 
 PubNubPublisher::PubNubPublisher(QQuickItem *parent)
